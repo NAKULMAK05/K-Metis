@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Minimal professional look */
+* { box-sizing: border-box; }
+
+
